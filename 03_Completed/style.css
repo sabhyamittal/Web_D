@@ -1,0 +1,49 @@
+*{
+    background-color: aqua;
+}
+
+.head-div{
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 10px;
+  padding: 10px;
+}
+
+.grid-container > div {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+
+.left{
+    margin:0;
+}
+
+.form-table{
+  font-size: 25px;
+  margin-left: 35%;
+}
+
+.buttons{
+  width: 100px;
+  height:35px;
+}
+
+.tr-div{
+  margin-left:200px;
+}
+
+.button-div{
+  margin-left:220px;
+  margin-top:20px;
+}
+
+.select-div{
+  width:150px;
+}
